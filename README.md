@@ -38,4 +38,5 @@ I’m passionate about solving real problems with Python and continuously growin
 
 📫 How to reach me:
 - [GitHub](https://github.com/ShuaibuAlchemist)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-shuaibu-alchemist)
 
