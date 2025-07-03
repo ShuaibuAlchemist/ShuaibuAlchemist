@@ -21,17 +21,15 @@ I enjoy learning through practical projects and mentorships, and I document my w
 - Building end-to-end data projects  
 - Contributing to open-source 
 
-🛠 Skills & Tools
+🛠 Skills, Tools & Language
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 - Languages: Python, SQL, R  
 - Libraries/Tools: Pandas, NumPy, Matplotlib, Git, Jupyter, VS Code  
 - Domains: Data Analytics, Blockchain Data, Research Analysis  
 - Other: Problem Solving, Writing, Public Speaking, Team Player 
-
-
-🛠 Tools & Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 📂 My Projects
 
