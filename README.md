@@ -1,53 +1,54 @@
-👋 Hello, I'm Muhammad Shuaibu
+👋 Hi, I'm Muhammad Shuaibu
 
 🎓 MSc in Physical Chemistry  
-💻 Transitioning into Tech | Python & Data Analytics | Blockchain Enthusiast  
+💻 Aspiring Data Scientist & Blockchain Analyst  
 🌍 Open to Remote Opportunities
 
-🧠 About Me
-I'm a Physical Chemist passionate about using data and technology to solve real-world problems. Currently transitioning into tech, I’m building a strong foundation in Python programming, data analysis, and blockchain analytics.
+---
 
-I enjoy learning through practical projects and mentorships, and I document my work consistently on GitHub. My background in scientific research helps me approach problems with discipline, logic, and curiosity
+🔍 About Me
 
-💻 What I'm Working On
-- Python projects for personal growth and career entry
-- *Daily Mood Tracker* – Python app to log and reflect on mood swings
-- Building confidence in Git, GitHub, and collaborative coding
-  
-🌱 I’m currently learning
-- Improving my knowledge of python programming
-- Data science and machine learning 
-- Blockchain Data Analytics & Sales  
-- Building end-to-end data projects  
-- Contributing to open-source 
+I'm a physical chemist passionate about leveraging data and technology to address real-world challenges. Transitioning into the tech industry, I'm building a strong foundation in Python programming, data analysis, and blockchain analytics. My scientific background equips me with a disciplined and analytical approach to problem-solving.
+
+---
 
 🛠 Skills, Tools & Language
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-- Languages: Python, SQL, R  
-- Libraries/Tools: Pandas, NumPy, Matplotlib, Git, Jupyter, VS Code  
-- Domains: Data Analytics, Blockchain Data, Research Analysis  
-- Other: Problem Solving, Writing, Public Speaking, Team Player 
+🛠 Technical Skills
+- Languages: Python, R, SQL
+- Data Analysis: Pandas, NumPy, Matplotlib, Seaborn, Plotly
+- APIs: CoinGecko, Dune Analytics, Etherscan
+- Tools: Git, GitHub, Jupyter Notebooks
 
-📂 My Projects
+📂 Featured Projects
 
-- 🔗 [Daily Mood Swing Tracker](https://github.com/ShuaibuAlchemist/Daily_mood_swing_tracker)
-- Blockchain Analytics (Ongoing): Analyzing and visualizing blockchain transaction data
-- Python for Data Science Exercises: Coursework and projects based on Saylor Academy and mentor-led session
+- [Mini Capstone Project](https://github.com/ShuaibuAlchemist/Mini_Capstone_Project): Investigated the correlation between whale transactions and cryptocurrency price movements using data from CoinGecko and Dune Analytics.
+
+- [Mood Tracker App](https://github.com/ShuaibuAlchemist/Mood_Tracker_App): Developed a Python-based application to monitor and analyze mood patterns over time.
+- [Python Job Tracker](https://github.com/ShuaibuAlchemist/Python_Job_Tracker): Created a tool to track and visualize job application progress using Python and Pandas.
+
+---
 
 🌱 Goals for 2025
 - Land a tech-related role
 - Contribute to open-source projects
 - Keep growing and building tools that help others
 
-👯 I’m looking to collaborate on
-- Projects that will require and build my skills in python programming and data science, particularly those related to science
+📫 Let's Connect
 
-📫 How to reach me:
-- [GitHub](https://github.com/ShuaibuAlchemist)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-shuaibu-alchemist)
+- LinkedIn: [Muhammad Shuaibu](https://www.linkedin.com/in/muhammad-shuaibu/)
+- Twitter: [@ShuaibuAlchemist](https://twitter.com/ShuaibuAlchemist)
+- GitHub: [ShuaibuAlchemist](https://github.com/ShuaibuAlchemist)
+
 
 
 "Driven by discipline, strengthened by learning, and fueled by purpose."
+---
+
+Feel free to explore my repositories and reach out if you're interested in collaborating or discussing data science and blockchain analytics!
+
+---
+
