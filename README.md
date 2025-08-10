@@ -40,7 +40,6 @@ I'm a physical chemist passionate about leveraging data and technology to addres
 📫 Let's Connect
 
 - LinkedIn: [Muhammad Shuaibu](https://www.linkedin.com/in/muhammad-shuaibu/)
-- Twitter: [@ShuaibuAlchemist](https://twitter.com/ShuaibuAlchemist)
 - GitHub: [ShuaibuAlchemist](https://github.com/ShuaibuAlchemist)
 
 
